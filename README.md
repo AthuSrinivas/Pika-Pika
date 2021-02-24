@@ -11,4 +11,5 @@ Click on the white part of the screen to continue to the animation.
 
 Few of the snaps of the animation is as below.
 
-
+![Original_Image](https://github.com/AthulSrinivas/Pika-Pika/blob/master/Snaps/Pikachu.png?raw=true)
+![Original_Image](https://github.com/AthulSrinivas/Pika-Pika/blob/master/Snaps/Pichu.png?raw=true)
