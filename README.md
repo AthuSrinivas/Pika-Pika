@@ -9,6 +9,6 @@ Then run ./pikachu
 
 Click on the white part of the screen to continue to the animation.
 
-A snaps of the animation is as below.
+A snap of the animation is as below.
 
 ![Original_Image](https://github.com/AthulSrinivas/Pika-Pika/blob/master/Snaps/Pikachu.png?raw=true)
