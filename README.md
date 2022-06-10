@@ -1,4 +1,5 @@
 # Pika-Pika
+<h3>"I know, I know, The code is an absolute horror but please ask me why I'm proud of it."</h3>
 This project is an fun animation of Pikachu and Picchu created in OpenGL.
 
 Install freeglut3-dev before running it.
